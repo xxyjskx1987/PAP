@@ -1,5 +1,5 @@
-# PAP
-个人应用协议(Personal Application Protocol)。
+# 个人应用协议
+PAP(Personal Application Protocol)。
 
 ![License](https://img.shields.io/badge/license-GPL%20v3-blue)
 
