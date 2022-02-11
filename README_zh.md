@@ -1,5 +1,5 @@
 # PAP
-个人应用协议.
+个人应用协议。
 
 简体中文 | [English](https://github.com/xxyjskx1987/PAP/blob/main/README.md)
 
