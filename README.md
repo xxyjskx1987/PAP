@@ -1,2 +1,2 @@
 # PAP
-PAP,Personal Application Protocol.
+PAP(Personal Application Protocol).
