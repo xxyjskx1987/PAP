@@ -12,4 +12,4 @@ English | [简体中文](https://github.com/xxyjskx1987/PAP/blob/main/README_zh.
 
 #### License
 
-[GNU General Public License v3.0](https://github.com/xxyjskx1987/file-split-merge/blob/main/LICENSE)
+[GNU General Public License v3.0](https://github.com/xxyjskx1987/PAP/blob/main/LICENSE)
