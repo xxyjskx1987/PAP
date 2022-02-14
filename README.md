@@ -26,8 +26,8 @@ It aims to promote and standardize the application of personal-centered software
 ### Application Model
 
 - [interface interaction](./interface_interaction/README.md)  
-- data storage  
-- data network
+- [data storage](./data_storage/README.md)  
+- [data network](./data_network/README.md)
 
 ### License
 
