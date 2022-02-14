@@ -21,7 +21,7 @@ Aims to promote and standardize Papp(Personalization Application) - personal cen
 - **Self-organizing:** The P2P network can be built automatically without relying on fixed central nodes.  
 - **Autonomy:** Network nodes can be repaired automatically to ensure smooth communication.  
 - **Manageable:** Applications can be supervised by designated people whenever and wherever they are.  
-- **Traceable:**  
+- **Traceable:** Data sources can be traced and data attribution can be proven.  
 - **Openness:**
 
 ## Application Model
