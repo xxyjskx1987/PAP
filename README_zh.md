@@ -1,9 +1,12 @@
 # 个人应用协议
+
 PAP(Personal Application Protocol).
 
 ![License](https://img.shields.io/badge/license-GPL%20v3-blue)
 
 简体中文 | [English](./README.md)
+
+#### 介绍
 
 #### 资源
 
@@ -11,6 +14,7 @@ PAP(Personal Application Protocol).
 [Github](https://github.com/xxyjskx1987/PAP)
 
 #### 应用模型
+
 - 界面交互  
 - 数据存储  
 - 数据网络
