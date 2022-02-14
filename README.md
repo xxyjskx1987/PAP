@@ -8,7 +8,7 @@ English | [简体中文](./README_zh.md)
 
 ## Introduction
 
-It aims to promote and standardize the application of personal-centered software.
+Aims to promote and standardize Papp(Personalization Application) - personal centered software application.
 
 ## Resource
 
