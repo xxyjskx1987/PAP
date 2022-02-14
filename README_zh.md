@@ -25,9 +25,9 @@ PAP(Personal Application Protocol).
 
 ### 应用模型
 
-- 界面交互  
-- 数据存储  
-- 数据网络
+- [界面交互](./interface_interaction/README_zh.md)  
+- [数据存储](./data_storage/README_zh.md)  
+- [数据网络](./data_network/README_zh.md)
 
 ### 许可
 
