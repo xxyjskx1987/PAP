@@ -15,9 +15,9 @@ It aims to promote and standardize the application of personal-centered software
 [Gitee](https://gitee.com/dfz/PAP)  
 [Github](https://github.com/xxyjskx1987/PAP)
 
-### Feature
+## Feature
 
-- **No Dependence**: Eliminate centralized node dependence and platform application monopoly.  
+- **No Dependence:** Eliminate centralized node dependence and platform application monopoly.  
 - Self-organizing  
 - Autonomy  
 - Manageable  
