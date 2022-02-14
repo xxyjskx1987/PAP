@@ -6,21 +6,21 @@ Personal Application Protocol.
 
 English | [简体中文](./README_zh.md)
 
-#### Introduction
+### Introduction
 
 It aims to promote and standardize the application of personal-centered software.
 
-#### Resource
+### Resource
 
 [Gitee](https://gitee.com/dfz/PAP)  
 [Github](https://github.com/xxyjskx1987/PAP)
 
-#### Application Model
+### Application Model
 
 - interface interaction  
 - data storage  
 - data network
 
-#### License
+### License
 
 [GNU General Public License v3.0](./LICENSE)
