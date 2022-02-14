@@ -8,7 +8,7 @@ PAP(Personal Application Protocol).
 
 ## 介绍
 
-旨在推动与规范以个人为中心的软件应用。
+旨在推动与规范Papp（个人化应用） - 以个人为中心的软件应用。 
 
 ## 资源
 
