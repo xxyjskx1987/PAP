@@ -6,11 +6,11 @@ Personal Application Protocol.
 
 English | [简体中文](./README_zh.md)
 
-### Introduction
+## Introduction
 
 It aims to promote and standardize the application of personal-centered software.
 
-### Resource
+## Resource
 
 [Gitee](https://gitee.com/dfz/PAP)  
 [Github](https://github.com/xxyjskx1987/PAP)
@@ -18,18 +18,18 @@ It aims to promote and standardize the application of personal-centered software
 ## Feature
 
 - **No Dependence:** Eliminate centralized node dependence and platform application monopoly.  
-- Self-organizing  
-- Autonomy  
-- Manageable  
-- Traceable  
-- Openness
+- **Self-organizing:**  
+- **Autonomy:**  
+- **Manageable:**  
+- **Traceable:**  
+- **Openness:**
 
-### Application Model
+## Application Model
 
 - [interface interaction](./interface_interaction/README.md)  
 - [data storage](./data_storage/README.md)  
 - [data network](./data_network/README.md)
 
-### License
+## License
 
 [GNU General Public License v3.0](./LICENSE)
