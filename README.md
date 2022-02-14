@@ -22,7 +22,7 @@ Aims to promote and standardize Papp(Personalization Application) - personal cen
 - **Autonomy:** Network nodes can be repaired automatically to ensure smooth communication.  
 - **Manageable:** Applications can be supervised by designated people whenever and wherever they are.  
 - **Traceable:** Data sources can be traced and data attribution can be proven.  
-- **Openness:**
+- **Openness:** All services can be participated in and all services can be selected.
 
 ## Application Model
 
