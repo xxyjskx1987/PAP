@@ -21,7 +21,8 @@ It aims to promote and standardize the application of personal-centered software
 - self-organizing  
 - autonomy  
 - manageable  
-- traceable
+- traceable  
+- openness
 
 ### Application Model
 
