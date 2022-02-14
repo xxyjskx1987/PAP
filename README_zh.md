@@ -8,6 +8,8 @@ PAP(Personal Application Protocol).
 
 #### 介绍
 
+旨在推动与规范以个人为中心的软件应用。
+
 #### 资源
 
 [Gitee](https://gitee.com/dfz/PAP)  
