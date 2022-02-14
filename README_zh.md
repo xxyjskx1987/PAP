@@ -21,7 +21,8 @@ PAP(Personal Application Protocol).
 - 自组织  
 - 自治  
 - 可监管  
-- 可追溯
+- 可追溯  
+- 开放性
 
 ### 应用模型
 
