@@ -17,7 +17,11 @@ It aims to promote and standardize the application of personal-centered software
 
 ### Feature
 
-
+- no dependence  
+- self-organizing  
+- autonomy  
+- manageable  
+- traceable
 
 ### Application Model
 
