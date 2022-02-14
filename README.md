@@ -17,7 +17,7 @@ It aims to promote and standardize the application of personal-centered software
 
 ### Feature
 
-- No Dependence:Eliminate centralized node dependence and platform application monopoly.  
+- No Dependence: Eliminate centralized node dependence and platform application monopoly.  
 - Self-organizing  
 - Autonomy  
 - Manageable  
