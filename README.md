@@ -20,7 +20,7 @@ Aims to promote and standardize Papp(Personalization Application) - personal cen
 - **No Dependence:** Eliminate fixed centralized node dependence, eliminate platform application monopoly.  
 - **Self-organizing:** The P2P network can be built automatically without relying on fixed central nodes.  
 - **Autonomy:** Network nodes can be repaired automatically to ensure smooth communication.  
-- **Manageable:**  
+- **Manageable:** Applications can be supervised by designated people whenever and wherever they are.  
 - **Traceable:**  
 - **Openness:**
 
