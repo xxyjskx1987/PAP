@@ -8,6 +8,8 @@ English | [简体中文](./README_zh.md)
 
 #### Introduction
 
+It aims to promote and standardize the application of personal-centered software.
+
 #### Resource
 
 [Gitee](https://gitee.com/dfz/PAP)  
