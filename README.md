@@ -17,12 +17,12 @@ It aims to promote and standardize the application of personal-centered software
 
 ### Feature
 
-- no dependence  
-- self-organizing  
-- autonomy  
-- manageable  
-- traceable  
-- openness
+- No Dependence:Eliminate centralized node dependence and platform application monopoly.  
+- Self-organizing  
+- Autonomy  
+- Manageable  
+- Traceable  
+- Openness
 
 ### Application Model
 
