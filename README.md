@@ -3,7 +3,7 @@ Personal Application Protocol.
 
 ![License](https://img.shields.io/badge/license-GPL%20v3-blue)
 
-English | [简体中文](https://github.com/xxyjskx1987/PAP/blob/main/README_zh.md)
+English | [简体中文](./README_zh.md)
 
 #### Resource
 
@@ -11,10 +11,10 @@ English | [简体中文](https://github.com/xxyjskx1987/PAP/blob/main/README_zh.
 [Github](https://github.com/xxyjskx1987/PAP)
 
 #### Application Model
-interface interaction  
-data storage  
-data network
+- interface interaction  
+- data storage  
+- data network
 
 #### License
 
-[GNU General Public License v3.0](https://github.com/xxyjskx1987/PAP/blob/main/LICENSE)
+[GNU General Public License v3.0](./LICENSE)
