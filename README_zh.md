@@ -15,6 +15,14 @@ PAP(Personal Application Protocol).
 [Gitee](https://gitee.com/dfz/PAP)  
 [Github](https://github.com/xxyjskx1987/PAP)
 
+### 特点
+
+- 无依赖性  
+- 自组织  
+- 自治  
+- 可监管  
+- 可追溯
+
 ### 应用模型
 
 - 界面交互  
