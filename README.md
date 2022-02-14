@@ -11,10 +11,8 @@ English | [简体中文](https://github.com/xxyjskx1987/PAP/blob/main/README_zh.
 [Github](https://github.com/xxyjskx1987/PAP)
 
 #### Application Model
-interface interaction
-
-data storage
-
+interface interaction  
+data storage  
 data network
 
 #### License
